@@ -13,7 +13,10 @@ PROTOCOLS
 
 IMAGING DATA ORIGINAL TIFF FILES
 
-We uploaded all the original files to Zenodo. DOI: TBD
+We uploaded all the original files to Zenodo. 
+
+DOI: 10.5281/zenodo.10836252 (40 Segment group) and 10.5281/zenodo.10838976 (60 Segment group) 
+
 These samples were processed for vasa, usp, nanos (abbreviated as VUN). However, we only analyzed vasa expression for this publication because the other two probes did not generate consistent results for a technical reason we could not identify (both probes had worked fine in the past). Therefore we removed them from the analysis, but they are nevertheless a part of the z-stacks. 
 
 The following combinations of amplifier and fluors were used: 
