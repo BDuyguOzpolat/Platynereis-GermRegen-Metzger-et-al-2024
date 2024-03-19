@@ -27,5 +27,8 @@ VUN-40-7DPA-W1_B1-vasa-647_B2-usp-546_B3-nanos-488_DAPI_40x_tilestack
 VUN: vasa, usp, nanos
 40: 40segment group
 7DPA: 7 days post amputation
+W1: Worm sample 1 on the slide 
 40X: lense used
 tilestack: it is a tiled z-stack 
+
+The files can be opened with FIJI, and will still have metadata associated. 
